@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class SpawnerBox : MonoBehaviour
 {
-    [SerializeField]private GameObject smallBox;
+    [SerializeField]protected GameObject smallBox;
     [SerializeField]protected Vector2 spawnRadius;
-    [SerializeField]private int Maxspawnbox;
+    [SerializeField]protected int Maxspawnbox;
     private int Minspawnbox = 1;
 
     // Start is called before the first frame update
