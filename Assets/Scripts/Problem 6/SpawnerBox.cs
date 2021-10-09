@@ -6,8 +6,8 @@ public class SpawnerBox : MonoBehaviour
 {
     [SerializeField]private GameObject smallBox;
     [SerializeField]protected Vector2 spawnRadius;
-    [SerializeField]private int Minspawnbox;
     [SerializeField]private int Maxspawnbox;
+    private int Minspawnbox = 1;
 
     // Start is called before the first frame update
     protected virtual void Start()

@@ -250,8 +250,7 @@ MonoBehaviour:
   smallBox: {fileID: 6942222872256323963, guid: dd07e58f421d2a34da35a2a3d2e037f6,
     type: 3}
   spawnRadius: {x: 6, y: 3}
-  Minspawnbox: 1
-  Maxspawnbox: 1
+  Maxspawnbox: 20
 --- !u!4 &392258674
 Transform:
   m_ObjectHideFlags: 0
