@@ -18,22 +18,21 @@ public class Manager : MonoBehaviour
     [SerializeField] private Text scoreText;
     [SerializeField] Spawner spawner;
 
-    //[SerializeField] private GameObject gameOverPanel;
+    [SerializeField] private GameObject gameOverPanel;
     private bool isGameOver;
 
     void Start()
     {
         scoreText.text = "Score : " + score;
     }
-
-//    private void Update()
-//    {
-//        if (isGameOver && Input.GetKeyDown(KeyCode.R))
-//        {
-//            Scene scene = SceneManager.GetActiveScene();
-//            SceneManager.LoadScene(scene.name);
-//       }
-//    }
+   private void Update()
+   {
+       if (isGameOver && Input.GetKeyDown(KeyCode.R))
+       {
+           Scene scene = SceneManager.GetActiveScene();
+           SceneManager.LoadScene(scene.name);
+      }
+    }
 
     public void AddScore(int addScore)
     {
@@ -48,9 +47,9 @@ public class Manager : MonoBehaviour
         spawner.Respawn(box);
     }
 
- //   public void GameOver()
- //   {
- //       gameOverPanel.gameObject.SetActive(true);
- //       isGameOver = true;
- //   }
+  public void GameOver()
+    {
+      gameOverPanel.gameObject.SetActive(true);
+      isGameOver = true;
+     }
 }
