@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: c31a40b3f9fcacb4ba727b2c15bef884
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u2014Pngtree\u2014game button set yellow png_5996878_0"
+    21300002: "\u2014Pngtree\u2014game button set yellow png_5996878_1"
+    21300004: "\u2014Pngtree\u2014game button set yellow png_5996878_2"
+    21300006: "\u2014Pngtree\u2014game button set yellow png_5996878_3"
+    21300008: "\u2014Pngtree\u2014game button set yellow png_5996878_4"
+    21300010: "\u2014Pngtree\u2014game button set yellow png_5996878_5"
+    21300012: "\u2014Pngtree\u2014game button set yellow png_5996878_6"
+    21300014: "\u2014Pngtree\u2014game button set yellow png_5996878_7"
+    21300016: "\u2014Pngtree\u2014game button set yellow png_5996878_8"
+    21300018: "\u2014Pngtree\u2014game button set yellow png_5996878_9"
+    21300020: "\u2014Pngtree\u2014game button set yellow png_5996878_10"
+    21300022: "\u2014Pngtree\u2014game button set yellow png_5996878_11"
+    21300024: "\u2014Pngtree\u2014game button set yellow png_5996878_12"
+    21300026: "\u2014Pngtree\u2014game button set yellow png_5996878_13"
+    21300028: "\u2014Pngtree\u2014game button set yellow png_5996878_14"
+    21300030: "\u2014Pngtree\u2014game button set yellow png_5996878_15"
+    21300032: "\u2014Pngtree\u2014game button set yellow png_5996878_16"
+    21300034: "\u2014Pngtree\u2014game button set yellow png_5996878_17"
+    21300036: "\u2014Pngtree\u2014game button set yellow png_5996878_18"
+    21300038: "\u2014Pngtree\u2014game button set yellow png_5996878_19"
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_0"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 972
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3468185ca42ea6a4d8ae1973f29a9149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_1"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 972
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961da9d1d32855d458d9e06027133ab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_2"
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 972
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff38fef1858eae94d9502aeea05f2077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_3"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 972
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021044c7cea690d41bd88eea1e5d4481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_4"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 736
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a47ce206efb9f4c95f8bafc22c21b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_5"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 736
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d71e66cff7507149af4ff00ca989d4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_6"
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 736
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4dcb8684a279743b66cc0607bcf37a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_7"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 736
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d310599e73f03843b8ca742a31f3272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_8"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 500
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171616e9182843a4e935829956553aca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_9"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 500
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ea5247f6dec124b9deb1d7f8ca74a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_10"
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 500
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ae2889d89183e48822b4da1e29cbb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_11"
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 500
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d8ec67b3fd3f24ca31fd164bf4d8f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_12"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d60d05684bbc1a4cb54c8335b087ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_13"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 264
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8308cf375f7f31d42872724467903f3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_14"
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 264
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004ab5745e8b2bd4798527eb9f820002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_15"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 264
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748dbd6aa26922a4faa56acbea70e3e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_16"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 28
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f02fe82666b54a41a3dbeeb8de04f3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_17"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bae82aa28358b45b33fe6d64701066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_18"
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 28
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5a86733c915d45ab99ad9e0b74ecd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set yellow png_5996878_19"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 29
+        width: 200
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910d5c57c60cfb54ba88c697aa1ee999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f381baf74cf603c4dade17fe28a5cf7a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
