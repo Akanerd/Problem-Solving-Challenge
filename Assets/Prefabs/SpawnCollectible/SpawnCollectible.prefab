@@ -142,4 +142,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   score: 1
-  isRespawn: 0
+  isRespawn: 1

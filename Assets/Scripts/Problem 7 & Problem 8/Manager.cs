@@ -18,7 +18,7 @@ public class Manager : MonoBehaviour
     [SerializeField] private Text scoreText;
     [SerializeField] Spawner spawner;
 
-    [SerializeField] private GameObject gameOverPanel;
+    //[SerializeField] private GameObject gameOverPanel;
     private bool isGameOver;
 
     void Start()
