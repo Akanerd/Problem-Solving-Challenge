@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: 876c0877b6d141a4f8ad73c1659a78b3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pngfind.com-fire-sprite-sheet-png-5628488_0
+    21300002: pngfind.com-fire-sprite-sheet-png-5628488_1
+    21300004: pngfind.com-fire-sprite-sheet-png-5628488_2
+    21300006: pngfind.com-fire-sprite-sheet-png-5628488_3
+    21300008: pngfind.com-fire-sprite-sheet-png-5628488_4
+    21300010: pngfind.com-fire-sprite-sheet-png-5628488_5
+    21300012: pngfind.com-fire-sprite-sheet-png-5628488_6
+    21300014: pngfind.com-fire-sprite-sheet-png-5628488_7
+    21300016: pngfind.com-fire-sprite-sheet-png-5628488_8
+    21300018: pngfind.com-fire-sprite-sheet-png-5628488_9
+    21300020: pngfind.com-fire-sprite-sheet-png-5628488_10
+    21300022: pngfind.com-fire-sprite-sheet-png-5628488_11
+    21300024: pngfind.com-fire-sprite-sheet-png-5628488_12
+    21300026: pngfind.com-fire-sprite-sheet-png-5628488_13
+    21300028: pngfind.com-fire-sprite-sheet-png-5628488_14
+    21300030: pngfind.com-fire-sprite-sheet-png-5628488_15
+    21300032: pngfind.com-fire-sprite-sheet-png-5628488_16
+    21300034: pngfind.com-fire-sprite-sheet-png-5628488_17
+    21300036: pngfind.com-fire-sprite-sheet-png-5628488_18
+    21300038: pngfind.com-fire-sprite-sheet-png-5628488_19
+    21300040: pngfind.com-fire-sprite-sheet-png-5628488_20
+    21300042: pngfind.com-fire-sprite-sheet-png-5628488_21
+    21300044: pngfind.com-fire-sprite-sheet-png-5628488_22
+    21300046: pngfind.com-fire-sprite-sheet-png-5628488_23
+    21300048: pngfind.com-fire-sprite-sheet-png-5628488_24
+    21300050: pngfind.com-fire-sprite-sheet-png-5628488_25
+    21300052: pngfind.com-fire-sprite-sheet-png-5628488_26
+    21300054: pngfind.com-fire-sprite-sheet-png-5628488_27
+    21300056: pngfind.com-fire-sprite-sheet-png-5628488_28
+    21300058: pngfind.com-fire-sprite-sheet-png-5628488_29
+    21300060: pngfind.com-fire-sprite-sheet-png-5628488_30
+    21300062: pngfind.com-fire-sprite-sheet-png-5628488_31
+    21300064: pngfind.com-fire-sprite-sheet-png-5628488_32
+    21300066: pngfind.com-fire-sprite-sheet-png-5628488_33
+    21300068: pngfind.com-fire-sprite-sheet-png-5628488_34
+    21300070: pngfind.com-fire-sprite-sheet-png-5628488_35
+    21300072: pngfind.com-fire-sprite-sheet-png-5628488_36
+    21300074: pngfind.com-fire-sprite-sheet-png-5628488_37
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 556
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a77822942aaf754b980b0b1724a8a3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 555
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049525f4f8a7c3b4ca1f9c14c9626615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 554
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f85670938c3d4eb3319dd713e4d1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a7ea532193ffe4ba684c4cc051f5ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 552
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7794052088726ff42ae22bedc36b12a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 551
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9504fc7b420ee44bb6a3a4f3e121589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_6
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 550
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d792f07db6875ba40ba03605ddab43b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_7
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 549
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9ec3971658bfb438bce76e25ec2e67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 420
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb151698a12b85a489cc7b0662047edd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 420
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca7e3928295f8243a91a5efb8c9f8b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 418
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a590128543f3404f92ad390602d116a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 409
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a8573014a4acb43984d46101416edd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_12
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 403
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813ab8418e751894693f680bfb9f78cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_13
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 399
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c950c01be515458e93f5be82c65a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_14
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 396
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be71e8faf795d6847abaa150210aa9fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_15
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 394
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3206e41bf093e9e45b43ae67b8824059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 263
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b46490fc71beba44a2448bfecaf5bd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 263
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd50608561b10747ab965d68b38d907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 264
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf12a6382c5fc61418e049a29028c955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_19
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 263
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de64a6fd377cb44b7ea43d1954700d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_20
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 258
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2fbc244d35e944f9a0f6b743dc8ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 255
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555bfc8fd51e8a54584890995ae73f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_22
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 254
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef67dea07e031d041b940040915d5947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_23
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 254
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1daafc8687eec4995cfc5224421190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbc49e5cec070a4588affaad1166a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 128
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b692efb64d4374c9c10957b937c6cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 135
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dddd834ba958a4494806983470bbeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 135
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165d1049895ca964cbdeead04a3fdcd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_28
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 136
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ad9019522c15d46a0a61e5b2abab4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_29
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 133
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccf1919cacaa7f4fb9b4788ca3f0eb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_30
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 136
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1ce1986c7da4e41bc06cb8c6987fb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_31
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 135
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9321e1875f11434d87150c20309497e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d364e64626ddf64f9685d791b137795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fa5d26e1fe95d40aadfc7ddb8d8604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fca6f7e413401245863e90cff46dccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_35
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d45234804376743a6550ea1a44b20d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_36
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e09df2034acc1343a83d6546c493360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-fire-sprite-sheet-png-5628488_37
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 3
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63251944cbb86454e894c33eb2282a58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b27fd80641f020f478af3e119252d0ea
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
